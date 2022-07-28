@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-       
         int resultado = sumar3( 10, 3,4 );
         System.out.println(resultado);
 
