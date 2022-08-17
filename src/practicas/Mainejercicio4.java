@@ -1,3 +1,4 @@
+package practicas;
 public class Mainejercicio4 {
     public static void main(String[] args) {
         
